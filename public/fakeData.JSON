@@ -1,0 +1,32 @@
+[
+  {
+    "key": "1",
+    "name": "item1",
+    "imgLink": "https://img.freepik.com/free-photo/modern-studio-apartment-design-with-bedroom-living-space_1262-12375.jpg?w=1380&t=st=1647787062~exp=1647787662~hmac=907289d6630bafb2e7c1400f4f30d4a2ebaa98aaa9b143ab3f2d824da21c8fd7"
+  },
+  {
+    "key": "2",
+    "name": "item2",
+    "imgLink": "https://img.freepik.com/free-photo/luxury-bedroom-suite-resort-high-rise-hotel-with-working-table_105762-1783.jpg?w=1380&t=st=1647787065~exp=1647787665~hmac=63561a98555c9c0a527c35b9a2385a6498327735ae0e9569966023418bb11fc3"
+  },
+  {
+    "key": "3",
+    "name": "item3",
+    "imgLink": "https://img.freepik.com/free-photo/modern-spacious-room-with-large-panoramic-window_7502-7289.jpg?w=1380&t=st=1647787068~exp=1647787668~hmac=76991f2363dfc3b3c749effe5c869923c57a14997fbd825d292e0ca436c793e9"
+  },
+  {
+    "key": "4",
+    "name": "item4",
+    "imgLink": "https://img.freepik.com/free-photo/3d-rendering-modern-luxury-bedroom-suite-bathroom_105762-1945.jpg?w=1380&t=st=1647787071~exp=1647787671~hmac=977ebe4790345a0a4c18feb86c288a65848da59d2125cf772ec210bfd14598f9"
+  },
+  {
+    "key": "5",
+    "name": "item5",
+    "imgLink": "https://img.freepik.com/free-psd/poster-frame-living-room-psd-mockup_1150-55972.jpg?w=1380&t=st=1647787072~exp=1647787672~hmac=dcba6f9674b473d1828a8fe811acef26357f19f61ab9fb3f9b246f5c0211095d"
+  },
+  {
+    "key": "6",
+    "name": "item6",
+    "imgLink": "https://img.freepik.com/free-photo/luxury-bedroom-hotel_1150-10836.jpg?w=1380&t=st=1647960213~exp=1647960813~hmac=2912470224dd9548aca6a297a1fd5fd6009762f31c9b0b542543b8a936f191e6"
+  }
+]

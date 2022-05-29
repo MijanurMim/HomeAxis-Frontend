@@ -1,0 +1,32 @@
+.container-2 .swiper-container {
+  width: 100%;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  overflow: visible;
+}
+
+.container-2 .swiper-slide-container {
+  background-position: center;
+  background-size: cover;
+  /* width: 300px;
+  height: 900px; */
+}
+
+.container-2 .swiper-slide-container img {
+  display: block;
+  width: 100%;
+}
+
+/* .testimonial-background {
+  background-image: url("https://img.freepik.com/free-vector/silhouettes-business-people-against-grunge-city-background_1048-6486.jpg?t=st=1648630684~exp=1648631284~hmac=bde9aaebc47d5fbf9134710a595163c63edd8db62c113d8a115c0c8c24b76f53&w=1380");
+} */
+
+/* Place text in the middle of the image */
+.hero-text-testimonial {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+
+  transform: translate(-50%, -50%);
+}
